@@ -1,4 +1,4 @@
-# 🎬 Advanced Search Engine - Movie Recommendation System 🚀
+# 🎬 Advanced Search Engine - Movie Recommendation System
 
 In my CSCI-110 class, we explored search algorithms for building a search engine. However, the search feature often produced inaccurate results — similar to how LinkedIn's search sometimes delivers unrelated matches when a query is slightly off.
 
