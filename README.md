@@ -32,5 +32,5 @@ pip install pymongo requests
 - Precomputed embeddings from other APIs (like OpenAI) couldn't be reused because vector embeddings are model-specific.  
 
 ## 🙏 Acknowledgments 
-- This project was inspired by [freeCodeCamp YouTUbe tutorial](https://youtu.be/JEBDfGqrAUA?si=jeDYGXICExUsDtQf)  
+- This project was inspired by [freeCodeCamp YouTube tutorial](https://youtu.be/JEBDfGqrAUA?si=jeDYGXICExUsDtQf)  
 
