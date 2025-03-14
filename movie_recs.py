@@ -1,5 +1,5 @@
-import pymongo
 import requests
+import pymongo
 
 # connect to the client
 client = pymongo.MongoClient("<YOUR_CLIENT_CONNECTION_LINK>")
